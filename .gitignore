@@ -106,7 +106,7 @@ coverage
 # Strapi
 ############################
 
-.env
+.env.change file name to only env file
 license.txt
 exports
 *.cache
